@@ -43,6 +43,7 @@ This projects implements all of the aforementioned steps to train any object cat
 - Some feature extraction, classification and non-maximum suppression algorithms are given as part of the library. For level-1 feature extraction, raw pixel values is given, although any other can be easily used as mentioned before. For level-2 feature extraction, HOG is given as part of the library, although any can be used. For classification, Perceptron and two different implementations of AdaBoost is provided in the library and the user is free to come up with any classification algorithm. For non-maximum suppression algorithm, the famous greedy overlap suppression approach is given.
 - The system is highly flexible and there are many hyper-parameters that can be set to tune the object detection system as desired.
 
+https://kyaw.xyz/2017/12/18/modular-sliding-window-object-detector-training-detection-system-java
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
